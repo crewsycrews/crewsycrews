@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on indie gamedev && interesting startup projects.
 - 📫 How to reach me:
   -  [Telegram](https://t.me/casiq)
-  -  [Personal site](https://crewsis.me)
+  -  [Personal site](https://crewsycrews.github.io/me/)
 
 <!---
 crewsycrews/crewsycrews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
